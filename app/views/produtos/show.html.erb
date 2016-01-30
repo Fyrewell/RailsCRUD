@@ -1,0 +1,18 @@
+<% if flash[:success] %>
+  <div class="alert alert-success">
+    <em><%= flash[:success] %></em>
+  </div>
+<% end %>
+
+<h1>Detalhes do produto: <%= @produto.nome %> </h1>
+<ul>
+  <li>
+    <b>Valor:</b> R$ <%= @produto.valor %>
+  </li>
+  <li>
+    <b>Descrição:</b> <%= @produto.descricao %>
+  </li>
+  <li>
+    <b>Quantidade em estoque:</b> <%= @produto.quantidade %>
+  </li>
+</ul>
