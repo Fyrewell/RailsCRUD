@@ -4,9 +4,11 @@ CRUD de produto usando sqlite3
 
 executar rails s para criar rodar server local http://localhost:3000/
 
-<img src="https://github.com/Fyrewell/RailsCRUD/blob/master/repo_img/home.png" >
-<img src="https://github.com/Fyrewell/RailsCRUD/blob/master/repo_img/new.png" >
-<img src="https://github.com/Fyrewell/RailsCRUD/blob/master/repo_img/new_s.png" >
+<img src="https://github.com/Fyrewell/RailsCRUD/blob/master/repo_img/home.png" ><br/><br/>
+<hr></hr>
+<img src="https://github.com/Fyrewell/RailsCRUD/blob/master/repo_img/new.png" ><br/><br/>
+<hr></hr>
+<img src="https://github.com/Fyrewell/RailsCRUD/blob/master/repo_img/new_s.png" ><br/><br/>
 
 O arquivo bash_commands.txt apresenta script usado para criar os migrations
 
